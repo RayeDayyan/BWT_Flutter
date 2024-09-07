@@ -1,0 +1,13 @@
+# Ignore build directories and APKs
+*/build/
+*.apk
+
+# Flutter specific ignores
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-versions
+
+# Other large directories you want to exclude
+**/build/
